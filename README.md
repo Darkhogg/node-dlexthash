@@ -32,7 +32,7 @@ Usage
 -----
 
 ```javascript
-const dlExtHash = require('download-extract-hashed');
+const dlExtHash = require('dload-extract-hashed');
 
 dlExtHash({
   uri: 'http://example.org/some-archive.tar.gz',
