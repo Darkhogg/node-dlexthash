@@ -1,4 +1,4 @@
-`download-extract-hashed`
+`dload-extract-hashed`
 =========================
 
 Download, check SHA-256 and extract files from the Internet.  Already downloaded files are cached

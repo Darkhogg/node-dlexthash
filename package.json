@@ -1,5 +1,5 @@
 {
-  "name": "download-extract-hashed",
+  "name": "dload-extract-hashed",
   "version": "1.0.0",
   "description": "Download, check sha256 and extract files from the internet",
   "main": "lib/index.js",
