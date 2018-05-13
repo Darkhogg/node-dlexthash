@@ -1,6 +1,6 @@
 {
   "name": "dload-extract-hashed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Download, check sha256 and extract files from the internet",
   "main": "lib/index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "chai": "^4.1.2",
     "chai-as-promised": "^7.1.1",
     "cli-progress": "^1.8.0",
-    "lzma-native": "^3.0.7",
+    "lzma-native": "^3.0.8",
     "mime-magic": "^5.14.0",
     "mkdirp": "^0.5.1",
     "request": "^2.85.0",
@@ -25,7 +25,7 @@
   "devDependencies": {
     "mocha": "^5.0.5",
     "nock": "^9.2.3",
-    "nyc": "^11.6.0",
+    "nyc": "^11.7.3",
     "rimraf": "^2.6.2"
   }
 }
